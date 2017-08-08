@@ -25,6 +25,9 @@
   * made a business-rules editor for integrating information sources
   * developed a custom data warehouse for backups, analysis, and test-dumps
   * worked on day-to-day front-end and back-end development
+* Co-Founder :: Sophware | March 2016 - Present
+  * built a variety of web-apps for clients
+  * creating products
 
 ## Research
 * entropy & complexity
