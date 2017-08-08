@@ -1,5 +1,4 @@
 # Taylor Sarrafian
-* Los Angeles, CA
 * taylorsarrafian@gmail.com
 * taysar.com
 
