@@ -58,13 +58,13 @@
   * combinators library
 * lapse / pommy | 2015
   * timer cli
-* mesh networks | 014
+* mesh networks | 2013-2014
   * built a prototype iOS app for "off-the-grid" communications
   * users were able to create local chatrooms via bluetooth
-* ultrasonic washing | 2014
+* ultrasonic washing | 2013-2014
   * managed a team building an ultrasonic dishwashing prototype
   * researched ultrasonic effects on metals, plastics, and textiles
-* drone-to-phone | 2014
+* drone-to-phone | 2013-2014
   * managed a team researching close-range sonic and bluetooth navigation
   * mounted the communication-systems on quadcopters
 
