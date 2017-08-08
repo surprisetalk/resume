@@ -27,6 +27,18 @@
   * developed a custom data warehouse for backups, analysis, and test-dumps
   * worked on day-to-day front-end and back-end development
 
+## Research
+* entropy & complexity
+  * developing theory to unify computational complexity with information theory
+* social networks
+  * used Markov Chains to analyze Pinterest users
+* hyperoperators
+  * approximated tetratic roots
+  * helped professor develop theory of logarithms/inversion
+* neural networks
+  * simulated arrays of neurons on a supercomputer
+  * used information theory to find "leaders" of subgroups
+
 ## Projects
 * scraps | 2017-present
   * metaprogramming language
@@ -53,18 +65,6 @@
 * drone-to-phone | 2014
   * managed a team researching close-range sonic and bluetooth navigation
   * mounted the communication-systems on quadcopters
-
-# Research
-* entropy & complexity
-  * developing theory to unify computational complexity with information theory
-* social networks
-  * used Markov Chains to analyze Pinterest users
-* hyperoperators
-  * approximated tetratic roots
-  * helped professor develop theory of logarithms/inversion
-* neural networks
-  * simulated arrays of neurons on a supercomputer
-  * used information theory to find "leaders" of subgroups
 
 ## Skills
 * Languages
